@@ -33,13 +33,13 @@ async def start(c, m, cb=False):
 `You can store your Telegram Media for permanent Link!`
 
 
-**👲 Maintained By:** {owner.mention(style='md')}
+**👲 Maintained By:** ('AX BOTZ 👨‍✈️', url=f"https://t.me/AX_BOTZ")}
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/{owner_username}"),
+            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/OTT_FREAKS"),
             InlineKeyboardButton('Help 💡', callback_data="help")
         ],
         [
